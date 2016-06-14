@@ -56,7 +56,9 @@ body{
 .navbar-inverse .navbar-nav .open .dropdown-menu {
     background-color: #303F9F;
     color:#eeeeee;
+    padding:5px 0px 0px 3px;
 }
+
 
 .navbar-inverse .navbar-nav .open .dropdown-menu> li> a:hover {
     color:#000000;
